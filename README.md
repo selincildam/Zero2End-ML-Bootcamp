@@ -1,5 +1,7 @@
 # Zero2End Machine Learning Bootcamp
 
+![WhatsApp Görsel 2025-11-19 saat 01 44 58_400e8553](https://github.com/user-attachments/assets/f90cfe40-9943-40e6-8836-bfa6bc2b093f)
+
 ## 🤔 Neden Bu Eğitim Var:
 
 "**Zero2End Machine Learning Bootcamp**" eğitimine hoş geldin! 🚀 Bu bootcamp boyunca, makine öğrenmesinin temellerinden başlayarak model geliştirme, değerlendirme ve deploy süreçlerine kadar tüm aşamaları öğreneceğiz. Tamamen ücretsiz ve çevrimiçi olan bu eğitim, sıfırdan başlayarak pratik ağırlıklı bir yaklaşımla ilerliyor. Bootcamp'in ikinci aşamasında ise çeşitli sektörlerden konuklarımızın katılımıyla kapalı oturumlar düzenlenecek ve gerçek endüstri senaryolarını deneyimleme fırsatı bulacaksın.
