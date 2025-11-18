@@ -76,8 +76,11 @@ Notebook'lardaki kaynaklar:
 ### [Ders 5: Model için Veri Hazırlama (EDA)](https://www.youtube.com/watch?v=L3jZxf7KMtg) - [Enes Fehmi Manan](https://www.linkedin.com/in/enesfehmimanan/)
 <details>
 <summary>Click to expand!</summary>
-
-
+  
+📂 **Ders Materyalleri**
+- [Örnek proje reposu](https://github.com/enesmanan/credit-risk-model)
+- [Eğitim notebook](https://github.com/enesmanan/credit-risk-model/blob/main/notebooks/analysis/00_data_preparation_egitim.ipynb)
+- [LLMAutoEDA Paketi](https://github.com/enesmanan/LLMAutoEDA)
 
 </details>
 
