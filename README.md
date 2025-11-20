@@ -105,6 +105,9 @@ Topluluktan Gelenler:
 <details>
 <summary>Click to expand!</summary>
 
+📂 **Ders Materyalleri**
+- [Proje Dosyası](https://drive.google.com/file/d/1mc1p04O8kExEcLcBwCEuX9gUxwf5DWLD/view)
+- [Örnek Proje](https://github.com/enesmanan/credit-risk-model)
 
 
 </details>
