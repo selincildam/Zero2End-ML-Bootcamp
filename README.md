@@ -119,7 +119,9 @@ Topluluktan Gelenler:
 <details>
 <summary>Click to expand!</summary>
 
-
+📂 **Ders Materyalleri**
+- [Ders Dokümanı](https://github.com/TirendazAcademy/Zero2End-ML-Bootcamp/blob/main/docs/Classification-Doc.png)
+- [Sınıflandırma Notebook](https://github.com/TirendazAcademy/Zero2End-ML-Bootcamp/blob/main/docs/classification.ipynb)
 
 </details>
 
