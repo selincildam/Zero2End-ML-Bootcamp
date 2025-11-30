@@ -109,6 +109,9 @@ Topluluktan Gelenler:
 - [Proje Dosyası](https://drive.google.com/file/d/1mc1p04O8kExEcLcBwCEuX9gUxwf5DWLD/view)
 - [Örnek Proje](https://github.com/enesmanan/credit-risk-model)
 
+Topluluktan Gelenler:
+- [Transkript Özet](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/final_proje_detaylari_-_enes_fehmi_manan.pdf)
+- [Öne Çıkan Maddeler](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/final_proje_detaylari_-one_cikan_maddeler_ozet_-_enes_fehmi_manan.pdf)
 
 </details>
 
@@ -144,7 +147,7 @@ Topluluktan Gelenler:
 
 </details>
 
-### [Ders 11: Model Seçimi, Optimizasyonu ve Değerlendirme](Link) - Kaan Bıçakçı
+### [Ders 11: Model Seçimi, Optimizasyonu ve Değerlendirme](Link) - [Engin Deniz Alpman](https://www.linkedin.com/in/engindenizalpman/)
 <details>
 <summary>Click to expand!</summary>
 
@@ -152,7 +155,7 @@ Topluluktan Gelenler:
 
 </details>
 
-### [Ders 12: Model Deploy ve Monitoring](Link) - Nusret Özateş
+### [Ders 12: Model Deploy ve Monitoring](Link) - [Bahadır Ünal](https://www.linkedin.com/in/bahadirunal7/)
 <details>
 <summary>Click to expand!</summary>
 
