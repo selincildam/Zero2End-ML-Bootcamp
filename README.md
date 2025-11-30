@@ -147,7 +147,7 @@ Topluluktan Gelenler:
 
 </details>
 
-### [Ders 11: Model Seçimi, Optimizasyonu ve Değerlendirme](https://www.youtube.com/watch?v=YG2P_5ZOFWQ) - [Engin Deniz Alpman](https://www.linkedin.com/in/engindenizalpman/)
+### [Ders 11: Model Seçimi, Optimizasyonu ve Değerlendirmesi](https://www.youtube.com/watch?v=YG2P_5ZOFWQ) - [Engin Deniz Alpman](https://www.linkedin.com/in/engindenizalpman/)
 <details>
 <summary>Click to expand!</summary>
 
