@@ -131,7 +131,7 @@ Topluluktan Gelenler:
 
 </details>
 
-### [Ders 9: Regresyon Modelleri](Link) - [Selin Çıldam](https://www.linkedin.com/in/selincildam/)
+### [Ders 9: Regresyon Modelleri](https://www.youtube.com/watch?v=loPUbsJH3_Q) - [Selin Çıldam](https://www.linkedin.com/in/selincildam/)
 <details>
 <summary>Click to expand!</summary>
 
@@ -139,7 +139,7 @@ Topluluktan Gelenler:
 
 </details>
 
-### [Ders 10: Gözetimsiz Öğrenme](Link) - [Göker Güner](https://www.linkedin.com/in/gokerguner/)
+### [Ders 10: Gözetimsiz Öğrenme](https://www.youtube.com/watch?v=NcDTUUuZ02w) - [Göker Güner](https://www.linkedin.com/in/gokerguner/)
 <details>
 <summary>Click to expand!</summary>
 
@@ -147,7 +147,7 @@ Topluluktan Gelenler:
 
 </details>
 
-### [Ders 11: Model Seçimi, Optimizasyonu ve Değerlendirme](Link) - [Engin Deniz Alpman](https://www.linkedin.com/in/engindenizalpman/)
+### [Ders 11: Model Seçimi, Optimizasyonu ve Değerlendirme](https://www.youtube.com/watch?v=YG2P_5ZOFWQ) - [Engin Deniz Alpman](https://www.linkedin.com/in/engindenizalpman/)
 <details>
 <summary>Click to expand!</summary>
 
