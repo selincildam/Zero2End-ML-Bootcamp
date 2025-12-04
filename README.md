@@ -137,9 +137,10 @@ Topluluktan Gelenler:
 ### [Ders 9: Regresyon Modelleri](https://www.youtube.com/watch?v=loPUbsJH3_Q) - [Selin Çıldam](https://www.linkedin.com/in/selincildam/)
 <details>
 <summary>Click to expand!</summary>
-
-
-
+  
+📂 **Ders Materyalleri**
+- [Ders Dokümanı](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/Regresyon%20Modelleri.pdf)
+- [Notebook Linki](https://www.kaggle.com/code/eselinildam/simple-linear-polynomial-randomforest-regression)
 </details>
 
 ### [Ders 10: Gözetimsiz Öğrenme](https://www.youtube.com/watch?v=NcDTUUuZ02w) - [Göker Güner](https://www.linkedin.com/in/gokerguner/)
