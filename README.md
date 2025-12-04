@@ -139,7 +139,7 @@ Topluluktan Gelenler:
 <summary>Click to expand!</summary>
   
 📂 **Ders Materyalleri**
-- [Ders Dokümanı](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/Regresyon%20Modelleri.pdf)
+- [Ders Dokümanı](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/RegresyonModelleri.pdf)
 - [Notebook Linki](https://www.kaggle.com/code/eselinildam/simple-linear-polynomial-randomforest-regression)
 </details>
 
