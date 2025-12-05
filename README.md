@@ -141,6 +141,7 @@ Topluluktan Gelenler:
 📂 **Ders Materyalleri**
 - [Ders Dokümanı](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/RegresyonModelleri.pdf)
 - [Notebook Linki](https://www.kaggle.com/code/eselinildam/simple-linear-polynomial-randomforest-regression)
+
 </details>
 
 ### [Ders 10: Gözetimsiz Öğrenme](https://www.youtube.com/watch?v=NcDTUUuZ02w) - [Göker Güner](https://www.linkedin.com/in/gokerguner/)
@@ -155,6 +156,8 @@ Topluluktan Gelenler:
 <details>
 <summary>Click to expand!</summary>
 
+Topluluktan Gelenler:
+- [Ders Notları](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/ders_12_model_secimi_optimizasyonu_ve_degerlendirilmesi.pdf)
 
 
 </details>
