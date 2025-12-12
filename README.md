@@ -151,6 +151,12 @@ Topluluktan Gelenler:
 📂 **Ders Notebooku**
 - [Notebook Linki](https://www.kaggle.com/code/goker67/unsupervised-learning)
 
+**Diğer Kaynaklar**
+
+- [Enes Fehmi Manan'ın Kaggle Notebook'u](https://www.kaggle.com/code/enesfehmimanan/customer-segmentation-k-means-dbscan-gm)
+- [Gözetimsiz Öğrenme Üzerine Medium Blogu](https://gokerguner.medium.com/machine-learning-4-g%C3%B6zetimsiz-%C3%B6%C4%9Frenme-k%C3%BCmeleme-k-means-algoritmas%C4%B1-boyut-azaltma-temel-44598c53ee0c)
+
+
 </details>
 
 ### [Ders 11: Model Seçimi, Optimizasyonu ve Değerlendirmesi](https://www.youtube.com/watch?v=YG2P_5ZOFWQ) - [Engin Deniz Alpman](https://www.linkedin.com/in/engindenizalpman/)
