@@ -148,7 +148,8 @@ Topluluktan Gelenler:
 <details>
 <summary>Click to expand!</summary>
 
-
+📂 **Ders Notebooku**
+- [Notebook Linki](https://www.kaggle.com/code/goker67/unsupervised-learning)
 
 </details>
 
