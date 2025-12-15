@@ -172,7 +172,8 @@ Topluluktan Gelenler:
 ### [Ders 12: Model Deploy ve Monitoring](Link) - [Bahadır Ünal](https://www.linkedin.com/in/bahadirunal7/)
 <details>
 <summary>Click to expand!</summary>
-
-
+  
+📂 **Ders Reposu**
+- [Derste kullanılan tüm kodlar](https://github.com/unalbahadir/model-deployment-tutorial)
 
 </details>
