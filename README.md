@@ -177,3 +177,48 @@ Topluluktan Gelenler:
 - [Derste kullanılan tüm kodlar](https://github.com/unalbahadir/model-deployment-tutorial)
 
 </details>
+
+
+## Zero2End Stage 2:
+
+"**Zero2End Machine Learning Bootcamp Stage 2**" 
+
+
+### Kapalı Oturum 1: Recommendation (E-Ticaret) - [Furkan Kuşçu](https://www.linkedin.com/in/furkankuscu/)
+<details>
+<summary>Click to expand!</summary>
+ 
+
+</details>
+
+### Kapalı Oturum 2: ETA Prediction (Mobilite) - [Özge Usta](https://www.linkedin.com/in/ozge-usta/)
+<details>
+<summary>Click to expand!</summary>
+ 
+
+</details>
+
+
+### Kapalı Oturum 3: Time Series Prediction (Enerji) - [Hamza Görgülü](https://www.linkedin.com/in/hamzagorgulu/)
+<details>
+<summary>Click to expand!</summary>
+ 
+
+</details>
+
+
+### Kapalı Oturum 4: Credit Risk System Design (Banka) - [Enes Fehmi Manan](https://www.linkedin.com/in/enesfehmimanan/)
+<details>
+<summary>Click to expand!</summary>
+ 
+</details>
+
+
+### Kapalı Oturum 5: Purchase Probability (E-Ticaret) - [Ege Büyükbaş](https://www.linkedin.com/in/ege-berk-b%C3%BCy%C3%BCkba%C5%9F-742951168/)
+<details>
+<summary>Click to expand!</summary>
+
+
+</details>
+
+
