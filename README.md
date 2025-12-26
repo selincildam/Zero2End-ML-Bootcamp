@@ -179,15 +179,26 @@ Topluluktan Gelenler:
 </details>
 
 
-## Zero2End Stage 2:
+## 🚀 Zero2End Stage 2:
 
-"**Zero2End Machine Learning Bootcamp Stage 2**" 
+"**Zero2End Machine Learning Bootcamp Stage 2**" 🎯 Bu modül, Stage 1'deki final projesini belirlenen kriterlere göre başarıyla tamamlayan katılımcılarla Google Meet üzerinden kapalı oturumlar şeklinde gerçekleştirildi.
+
+Stage 1'de veri biliminin temellerini attıktan sonra, Stage 2'de farklı sektörlerden deneyimli konuklarımızla bir araya geldik. Her oturumda, konuklarımız kendi sektörlerinden gerçek dünya case'lerini ele alarak katılımcılara sektör bazlı derinlemesine içgörüler sundu. Bu oturumların temel amacı; katılımcıların "Hangi sektörde ne yapılıyor?", "Veri bilimi bu alanda nasıl kullanılıyor?" sorularına yanıt bulmalarını sağlamak ve kariyer yolculuklarında nereye yönlenebileceklerine dair bir pusula sunmaktı.
+
+> ⚠️ **Not:** Stage 2 oturumlarının kayıtları paylaşılmayacaktır. Aşağıda yalnızca topluluk tarafından hazırlanan özet notlar ve ders materyalleri yer almaktadır. 
 
 
 ### Kapalı Oturum 1: Recommendation (E-Ticaret) - [Furkan Kuşçu](https://www.linkedin.com/in/furkankuscu/)
 <details>
 <summary>Click to expand!</summary>
  
+📂 **Ders Materyalleri**
+- 📄 []()
+
+
+**Topluluktan Gelenler:**
+- 📄 [Eğitim Özeti 1](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/stage_2_furkan_aksu_-_one_cikanlar_ozet-_e-ticarette_oneri_sistemleri_mimarisi.pdf)
+- 📝 [Eğitim Özeti 2](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/stage_2_furkan_aksu_e-ticarette_oneri_sistemleri_mimarisi.pdf)
 
 </details>
 
@@ -195,6 +206,13 @@ Topluluktan Gelenler:
 <details>
 <summary>Click to expand!</summary>
  
+📂 **Ders Materyalleri**
+- 📄 []()
+
+**Topluluktan Gelenler:**
+- 📄 [Transkript Dosyası](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/stage_2_eta_prediction_ozge_usta_.pdf)
+- 📝 [Öne Çıkan Maddeler](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/stage_2_eta_prediction_one_cikanlar_ozet__ozge_usta_.pdf)
+
 
 </details>
 
@@ -203,6 +221,9 @@ Topluluktan Gelenler:
 <details>
 <summary>Click to expand!</summary>
  
+ 📂 **Ders Materyalleri**
+- [Ders Notebookları](https://github.com/hamzagorgulu/Time-Series-Energy-Sector-Bootcamp)
+- [Sunum](https://github.com/hamzagorgulu/Time-Series-Energy-Sector-Bootcamp/blob/main/Energy%20Sector%20Time%20Series%20Presentation%20(1).pdf)
 
 </details>
 
@@ -211,6 +232,9 @@ Topluluktan Gelenler:
 <details>
 <summary>Click to expand!</summary>
  
+📂 **Ders Notları**
+- [Notlar](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/credit_risk_system_design_notlar.md)
+
 </details>
 
 
@@ -218,6 +242,8 @@ Topluluktan Gelenler:
 <details>
 <summary>Click to expand!</summary>
 
+📂 **Ders Materyalleri**
+- 📄 []()
 
 </details>
 
