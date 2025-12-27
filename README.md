@@ -193,7 +193,7 @@ Stage 1'de veri biliminin temellerini attıktan sonra, Stage 2'de farklı sektö
 <summary>Click to expand!</summary>
  
 📂 **Ders Materyalleri**
-- 📄 []()
+- 📄 [Sunum](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/Stage_2_Modern_Recommendation_Systems_Architecture.pptx)
 
 
 **Topluluktan Gelenler:**
