@@ -141,12 +141,20 @@ Topluluktan Gelenler:
 📂 **Ders Materyalleri**
 - [Ders Dokümanı](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/RegresyonModelleri.pdf)
 - [Notebook Linki](https://www.kaggle.com/code/eselinildam/simple-linear-polynomial-randomforest-regression)
+
 </details>
 
 ### [Ders 10: Gözetimsiz Öğrenme](https://www.youtube.com/watch?v=NcDTUUuZ02w) - [Göker Güner](https://www.linkedin.com/in/gokerguner/)
 <details>
 <summary>Click to expand!</summary>
 
+📂 **Ders Notebooku**
+- [Notebook Linki](https://www.kaggle.com/code/goker67/unsupervised-learning)
+
+**Diğer Kaynaklar**
+
+- [Enes Fehmi Manan'ın Kaggle Notebook'u](https://www.kaggle.com/code/enesfehmimanan/customer-segmentation-k-means-dbscan-gm)
+- [Gözetimsiz Öğrenme Üzerine Medium Blogu](https://gokerguner.medium.com/machine-learning-4-g%C3%B6zetimsiz-%C3%B6%C4%9Frenme-k%C3%BCmeleme-k-means-algoritmas%C4%B1-boyut-azaltma-temel-44598c53ee0c)
 
 
 </details>
@@ -155,6 +163,8 @@ Topluluktan Gelenler:
 <details>
 <summary>Click to expand!</summary>
 
+Topluluktan Gelenler:
+- [Ders Notları](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/ders_12_model_secimi_optimizasyonu_ve_degerlendirilmesi.pdf)
 
 
 </details>
@@ -162,7 +172,79 @@ Topluluktan Gelenler:
 ### [Ders 12: Model Deploy ve Monitoring](Link) - [Bahadır Ünal](https://www.linkedin.com/in/bahadirunal7/)
 <details>
 <summary>Click to expand!</summary>
+  
+📂 **Ders Reposu**
+- [Derste kullanılan tüm kodlar](https://github.com/unalbahadir/model-deployment-tutorial)
 
+</details>
+
+
+## 🚀 Zero2End Stage 2:
+
+"**Zero2End Machine Learning Bootcamp Stage 2**" 🎯 Bu modül, Stage 1'deki final projesini belirlenen kriterlere göre başarıyla tamamlayan katılımcılarla Google Meet üzerinden kapalı oturumlar şeklinde gerçekleştirildi.
+
+Stage 1'de veri biliminin temellerini attıktan sonra, Stage 2'de farklı sektörlerden deneyimli konuklarımızla bir araya geldik. Her oturumda, konuklarımız kendi sektörlerinden gerçek dünya case'lerini ele alarak katılımcılara sektör bazlı derinlemesine içgörüler sundu. Bu oturumların temel amacı; katılımcıların "Hangi sektörde ne yapılıyor?", "Veri bilimi bu alanda nasıl kullanılıyor?" sorularına yanıt bulmalarını sağlamak ve kariyer yolculuklarında nereye yönlenebileceklerine dair bir pusula sunmaktı.
+
+> ⚠️ **Not:** Stage 2 oturumlarının kayıtları paylaşılmayacaktır. Aşağıda yalnızca topluluk tarafından hazırlanan özet notlar ve ders materyalleri yer almaktadır. 
+
+
+### Kapalı Oturum 1: Recommendation (E-Ticaret) - [Furkan Kuşçu](https://www.linkedin.com/in/furkankuscu/)
+<details>
+<summary>Click to expand!</summary>
+ 
+📂 **Ders Materyalleri**
+- 📄 []()
+
+
+**Topluluktan Gelenler:**
+- 📄 [Eğitim Özeti 1](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/stage_2_furkan_aksu_-_one_cikanlar_ozet-_e-ticarette_oneri_sistemleri_mimarisi.pdf)
+- 📝 [Eğitim Özeti 2](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/stage_2_furkan_aksu_e-ticarette_oneri_sistemleri_mimarisi.pdf)
+
+</details>
+
+### Kapalı Oturum 2: ETA Prediction (Mobilite) - [Özge Usta](https://www.linkedin.com/in/ozge-usta/)
+<details>
+<summary>Click to expand!</summary>
+ 
+📂 **Ders Materyalleri**
+- 📄 []()
+
+**Topluluktan Gelenler:**
+- 📄 [Transkript Dosyası](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/stage_2_eta_prediction_ozge_usta_.pdf)
+- 📝 [Öne Çıkan Maddeler](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/stage_2_eta_prediction_one_cikanlar_ozet__ozge_usta_.pdf)
 
 
 </details>
+
+
+### Kapalı Oturum 3: Time Series Prediction (Enerji) - [Hamza Görgülü](https://www.linkedin.com/in/hamzagorgulu/)
+<details>
+<summary>Click to expand!</summary>
+ 
+ 📂 **Ders Materyalleri**
+- [Ders Notebookları](https://github.com/hamzagorgulu/Time-Series-Energy-Sector-Bootcamp)
+- [Sunum](https://github.com/hamzagorgulu/Time-Series-Energy-Sector-Bootcamp/blob/main/Energy%20Sector%20Time%20Series%20Presentation%20(1).pdf)
+
+</details>
+
+
+### Kapalı Oturum 4: Credit Risk System Design (Banka) - [Enes Fehmi Manan](https://www.linkedin.com/in/enesfehmimanan/)
+<details>
+<summary>Click to expand!</summary>
+ 
+📂 **Ders Notları**
+- [Notlar](https://github.com/Developer-MultiGroup/Zero2End-ML-Bootcamp/blob/main/docs/credit_risk_system_design_notlar.md)
+
+</details>
+
+
+### Kapalı Oturum 5: Purchase Probability (E-Ticaret) - [Ege Büyükbaş](https://www.linkedin.com/in/ege-berk-b%C3%BCy%C3%BCkba%C5%9F-742951168/)
+<details>
+<summary>Click to expand!</summary>
+
+📂 **Ders Materyalleri**
+- 📄 []()
+
+</details>
+
+
